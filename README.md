@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marlbro
-- 👀 I’m interested in the arts (music, dance, and theatre) and IT as whole (design & full-stack)
-- 🌱 I’m currently learning Linux, and full-stack development via The Odin Project.
+- 👀 I’m interested in the arts (music, dance, and theatre) and IT (full-stack)
+- 🌱 I’m currently learning as I go, coding from knowledge gathered from The Odin Project and uDemy courses. 
 - 💞️ I’m looking to collaborate on anything that will help me learn.
 - 📫 Reach me at hharriswilliam@gmail.com 
 
